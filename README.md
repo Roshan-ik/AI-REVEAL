@@ -5,7 +5,6 @@ A deep learning–based project that detects whether an image or video is AI-gen
 🚀 Features
 
 Detects AI-generated vs. real images and videos
-
 Uses a hybrid CNN + FFT model for higher accuracy
 
 Trains on datasets of real and synthetic hands, faces, and objects
